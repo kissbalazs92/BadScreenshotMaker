@@ -24,7 +24,7 @@ jobs:
         pip install selenium webdriver_manager
 
     - name: Create Bad Screenshots
-      run: bad-image-getter.py.py
+      run: bad-image-getter.py
       
     - name: Upload Screenshots as artifacts
       uses: actions/upload-artifact@v2
