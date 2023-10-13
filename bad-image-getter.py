@@ -26,7 +26,7 @@ PAGES = [
 
 def random_css_modification(driver):
     # Látható elemek kiválasztása
-    elements = driver.find_elements(By.CSS_SELECTOR, 'div, span, a, img, p, h1, h2, h3, h4, h5, h6', 'tr', 'td')
+    elements = driver.find_elements(By.CSS_SELECTOR, 'div, span, a, img, p, h1, h2, h3, h4, h5, h6, tr, td')
     visible_elements = [el for el in elements if el.is_displayed()]
     
     # Képernyőn lévő elemek kiválasztása
