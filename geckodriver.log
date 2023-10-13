@@ -1,0 +1,203 @@
+1697211611763	geckodriver	INFO	Listening on 127.0.0.1:59524
+1697211614838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofileRFT83k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697211615208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697211615330	Marionette	INFO	Listening on port 59585
+WebDriver BiDi listening on ws://127.0.0.1:59525
+Read port: 59585
+1697211615531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59525/devtools/browser/f6cfaa08-4305-4f5d-a86f-bd615f4fb390
+1697211644443	Marionette	INFO	Stopped listening on port 59585
+Dynamically enable window occlusion 1
+1697211828070	geckodriver	INFO	Listening on 127.0.0.1:63095
+1697211831128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofilee5s55K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697211831368	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697211831563	Marionette	INFO	Listening on port 63154
+Read port: 63154
+WebDriver BiDi listening on ws://127.0.0.1:63096
+1697211831647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63096/devtools/browser/50bc348b-2ff8-4e1a-8341-ea8cf6c88744
+1697211994470	Marionette	INFO	Stopped listening on port 63154
+Dynamically enable window occlusion 1
+1697212013829	geckodriver	INFO	Listening on 127.0.0.1:50680
+1697212016881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofilekL2wKF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697212017106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697212017208	Marionette	INFO	Listening on port 50739
+WebDriver BiDi listening on ws://127.0.0.1:50681
+Read port: 50739
+1697212017390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50681/devtools/browser/23f5c1b2-b727-4f01-a924-509cae0e879e
+1697212601888	Marionette	INFO	Stopped listening on port 50739
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofileiF579A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697212207616	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697212207718	Marionette	INFO	Listening on port 53886
+WebDriver BiDi listening on ws://127.0.0.1:53827
+Read port: 53886
+1697212207906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53827/devtools/browser/87dc05c3-6ef8-491e-ba37-5c914f995ae5
+1697212251951	Marionette	INFO	Stopped listening on port 53886
+Dynamically enable window occlusion 1
+1697212315812	geckodriver	INFO	Listening on 127.0.0.1:55689
+1697212318889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofile28kjHy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697212319167	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697212319273	Marionette	INFO	Listening on port 55749
+WebDriver BiDi listening on ws://127.0.0.1:55690
+Read port: 55749
+1697212319450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55690/devtools/browser/dadbd01e-e337-4ad1-8738-cb585ae1ff4e
+1697212332505	Marionette	INFO	Stopped listening on port 55749
+Dynamically enable window occlusion 1
+1697213087231	geckodriver	INFO	Listening on 127.0.0.1:52524
+1697213090290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofile3Hv2Ei"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697213090639	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697213090743	Marionette	INFO	Listening on port 52591
+WebDriver BiDi listening on ws://127.0.0.1:52525
+Read port: 52591
+1697213090923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52525/devtools/browser/440d26f0-9d62-4933-a190-fbce7b8a4649
+1697213293814	geckodriver	INFO	Listening on 127.0.0.1:56088
+1697213296873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "560 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofileGP6Uqc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697213297093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697213297178	Marionette	INFO	Listening on port 56148
+WebDriver BiDi listening on ws://127.0.0.1:56089
+Read port: 56148
+1697213297334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56089/devtools/browser/15bcd7b8-7327-483b-8e9f-26ab5a080812
+1697213596629	geckodriver	INFO	Listening on 127.0.0.1:60965
+1697213599687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "609 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofilepVZGpj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697213599929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697213600015	Marionette	INFO	Listening on port 61021
+Read port: 61021
+WebDriver BiDi listening on ws://127.0.0.1:60966
+1697213600060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60966/devtools/browser/0aff001b-a6c4-4608-8550-c93f81c48b09
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+1697213983815	Marionette	INFO	Stopped listening on port 61021
+Dynamically enable window occlusion 1
+1697215548923	geckodriver	INFO	Listening on 127.0.0.1:61467
+1697215552004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "614 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofilejponuB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215552305	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215552395	Marionette	INFO	Listening on port 61531
+WebDriver BiDi listening on ws://127.0.0.1:61468
+Read port: 61531
+1697215552537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61468/devtools/browser/edac2c7f-6112-404f-8b2c-5f28c9de7b1a
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+JavaScript error: https://bwpool.azurewebsites.net/_framework/blazor.server.js, line 1: Error: Cannot send data if the connection is not in the 'Connected' State.
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=&callback=initMap, line 239: InvalidValueError: initMap is not a function
+1697215774718	Marionette	INFO	Stopped listening on port 61531
+Dynamically enable window occlusion 1
+1697216127737	geckodriver	INFO	Listening on 127.0.0.1:55369
+1697216130804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "553 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofilek1z59d"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697216131027	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697216131115	Marionette	INFO	Listening on port 55428
+WebDriver BiDi listening on ws://127.0.0.1:55370
+Read port: 55428
+1697216131264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55370/devtools/browser/e64ee2ea-611a-4631-b021-722376a91057
+1697217724169	geckodriver	INFO	Listening on 127.0.0.1:49327
+1697217727217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "493 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KISSBA~1\\AppData\\Local\\Temp\\rust_mozprofileSAiqsh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697217727438	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697217727522	Marionette	INFO	Listening on port 49388
+WebDriver BiDi listening on ws://127.0.0.1:49328
+Read port: 49388
+1697217727662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49328/devtools/browser/270812d9-ef9e-492b-be9a-b14262540fcb
