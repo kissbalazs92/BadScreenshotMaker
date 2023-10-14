@@ -78,7 +78,7 @@ browsers = {
 }
 
 # Hányszor fusson a script
-num_runs = 10
+num_runs = 4
 
 for browser_name, driver in browsers.items():
     for _ in range(num_runs):
